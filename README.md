@@ -53,4 +53,4 @@ When the user speaks into their microphone, the bot will capture the video and a
 > and then response it. 
 
 ## Contact
-For any questions or inquiries, please reach out via [email](priyanshichaudhary2015@gmail.com).
+For any questions or inquiries, please reach out via (priyanshichaudhary2015@gmail.com)  .
